@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.shijiufang.sounder.19"
+        applicationId "com.shijiufang.sounder.miku"
         minSdk 23
         targetSdk 36
         versionCode 1
